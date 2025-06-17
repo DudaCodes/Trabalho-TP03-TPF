@@ -3,8 +3,7 @@
 #include <string.h>
 #include <math.h>
 #include <ctype.h>
-#include "expressao.h"
-#include "stack.h" 
+#include "expressao.h" 
 
 #define MAX 512
 #define PI 3.14159265359
