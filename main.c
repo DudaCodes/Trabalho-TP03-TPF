@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "expressao.h"
+#include "expressao.c"
 
 int main() {
     char infixa[] = "3 + 4 * 2";
